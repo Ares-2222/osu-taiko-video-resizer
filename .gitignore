@@ -1,0 +1,15 @@
+# built binary, goes to Releases instead of the repo
+*.exe
+
+# bundled ffmpeg, too big for git, shipped inside the release zip
+files/
+
+# converted videos
+output/
+*.mp4
+*.avi
+*.flv
+
+# x264 two-pass leftovers
+*.log
+*.log.mbtree

@@ -1,0 +1,5 @@
+# Windows scripts must keep CRLF or cmd mishandles labels and goto
+*.bat text eol=crlf
+*.cs  text eol=crlf
+*.txt text eol=crlf
+*.md  text eol=lf
