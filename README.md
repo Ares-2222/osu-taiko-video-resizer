@@ -1,8 +1,5 @@
 # osu!taiko Video Resizer 2
 
-Fits any video into the osu!taiko playfield: a 1280x720 frame with the video
-centred in the lower band and a blurred strip filling the sides.
-
 Rebuilt encoder for the original
 [osu!taiko Video Resizer](https://osu.ppy.sh/community/forums/topics/1129583)
 by Khoo Hao Yit and Jerry. Same frame layout, same output dimensions.
